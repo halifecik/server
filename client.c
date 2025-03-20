@@ -1,6 +1,6 @@
 #include "server.h"
 
-int	main(void)
+int	main()
 {
 	int					sock;
 	struct sockaddr_in	server_address;
